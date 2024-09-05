@@ -1,6 +1,6 @@
 ### Hi there, I'm Arya Jawarkar 👋
 
--- Welcome to my GitHub profile! I'm a passionate software developer with interests in web development, and C-level programming. Here's a glimpse of my work and stats!
+ Welcome to my GitHub profile! I'm a passionate software developer with interests in web development, and C-level programming. Here's a glimpse of my work and stats!
 
 
 
