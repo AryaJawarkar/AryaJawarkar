@@ -14,12 +14,12 @@
 <p align="left"> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
 
 📊 GitHub Stats
-
+ <div align="center">
 <div align="center" style="margin-top:200px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=megh16123&count_private=true&include_all_commits=true&&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaJawarkar&count_private=true&include_all_commits=true&&theme=dracula"/>
 </div>
-  <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megh16123&layout=compact&theme=dracula)](https://github.com/megh16123)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJawarkar&layout=compact&theme=dracula)](https://github.com/megh16123)
 </div>
 
 
