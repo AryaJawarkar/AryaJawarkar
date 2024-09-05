@@ -19,7 +19,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaJawarkar&count_private=true&include_all_commits=true&&theme=dracula"/>
 </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=AryaJawarkar&layout=compact&theme=dracula)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJawarkar&layout=compact&theme=dracula)]
 </div>
 
 
