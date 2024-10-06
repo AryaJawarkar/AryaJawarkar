@@ -6,8 +6,8 @@
 
 - 🚀 About Me
 - 🔭 I’m currently working on **File System** and **Web App**
-- 🌱 I’m currently learning React and Go
-- 💬 Ask me about C,React,CPP,Javascript
+- 🌱 I’m currently learning Javascript
+- 💬 Ask me about C,CPP,Javascript
 - 📫 How to reach me: aryajawarkar7@gmail.com
 
 ⚙️ Languages and Tools
